@@ -2,6 +2,9 @@
 
 Native Apple Silicon and Metal renderer work for [CorsixTH](https://github.com/CorsixTH/CorsixTH), the open-source reimplementation of Theme Hospital.
 
+> [!NOTE]
+> **This repository is archived and read-only.** The maintained copy is in the Game Preservation Hub at [`projects/theme-hospital-apple-silicon`](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/theme-hospital-apple-silicon), where issues are open.
+
 This repository contains source code, build configuration, and compatibility work only. It does not include Theme Hospital game data, GOG installers, original assets, music, videos, manuals, or a playable commercial game bundle.
 
 ## Quick start
@@ -92,4 +95,8 @@ This project is not affiliated with or endorsed by Electronic Arts, Bullfrog Pro
 
 This work builds on a CorsixTH development snapshot from the 0.70 cycle (savegame version 248). See [UPSTREAM_README.md](UPSTREAM_README.md) for the upstream project documentation and attribution.
 
-CorsixTH's primary source is MIT-licensed, with bundled components covered by their respective terms. The complete notices and third-party licenses are preserved in [LICENSE](LICENSE).
+**Licence:** CorsixTH's own source, and the Apple Silicon changes made here, are under the MIT licence. Bundled components keep their own terms. The full text and all third-party notices are in [LICENSE](LICENSE) (an identical copy is kept as [LICENSE.txt](LICENSE.txt)).
+
+This software is provided as is, without warranty of any kind (see [LICENSE](LICENSE)). You use it at your own risk.
+
+The upstream CorsixTH CI workflows were removed from this copy because they target the upstream project's infrastructure and do not run here.
