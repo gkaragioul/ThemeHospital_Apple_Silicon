@@ -86,8 +86,10 @@ The installed app is created at `build/apple-silicon-install/CorsixTH.app`. See 
 
 Theme Hospital and related names and assets belong to their respective rights holders. This project is independent preservation and compatibility work and does not grant rights to the original commercial game.
 
+This project is not affiliated with or endorsed by Electronic Arts, Bullfrog Productions or the CorsixTH project. Theme Hospital is a trademark of Electronic Arts.
+
 ## Upstream and License
 
-This work builds on CorsixTH. See [UPSTREAM_README.md](UPSTREAM_README.md) for the upstream project documentation and attribution.
+This work builds on a CorsixTH development snapshot from the 0.70 cycle (savegame version 248). See [UPSTREAM_README.md](UPSTREAM_README.md) for the upstream project documentation and attribution.
 
 CorsixTH's primary source is MIT-licensed, with bundled components covered by their respective terms. The complete notices and third-party licenses are preserved in [LICENSE](LICENSE).
